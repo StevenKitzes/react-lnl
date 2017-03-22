@@ -1,0 +1,8 @@
+Demo files for the ReactJS Lunch and Learn event I'm hosting in March, 2017.
+This project uses NodeJS, NPM, webpack, and obviously ReactJS to separately build a series of frontend micro-apps to demonstrate some of the basics beginners will need to master to get started with ReactJS.
+
+Using:
+npm 3.3.12
+node 5.4.1
+
+For additional dependency information, check this project's package.json file.
